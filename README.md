@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/aleksandr-lukyanov-18212490/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+<div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=Forjob34&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
@@ -17,6 +12,11 @@
 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  <div id="badges">
+    <a href="https://www.linkedin.com/in/aleksandr-lukyanov-18212490/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
 ---
 
