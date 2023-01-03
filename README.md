@@ -9,11 +9,11 @@
 
 - I`m a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/aleksandr-lukyanov-18212490/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aleksandr-lukyanov-18212490/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -35,8 +35,5 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Forjob34&locale=tr)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forjob34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://komarev.com/ghpvc/?username=Forjob34&style=flat-square&color=blue" alt=""/>
+
